@@ -1,4 +1,4 @@
 # jianshu
-jianshu project
-npm install
-npm run start
+jianshu project  
+npm install  
+npm run start  
